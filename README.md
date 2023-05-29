@@ -52,7 +52,7 @@ for i in range(n):
 ## Output:
 
 
-![OUTPUT 1](https://github.com/Nandhinijaya/Gaussian/assets/121998147/81ceb87f-cd85-4b99-9610-d30b18954db1)
+![OUTPUT 1](https://github.com/Nandhinijaya/Gaussian/assets/121998147/fa6c8088-f7a7-494b-8eed-ec3609d1b039)
 
 
 
