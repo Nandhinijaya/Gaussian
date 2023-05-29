@@ -9,8 +9,11 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 
 ## Algorithm
 1.Read the elements of augumented matrix
+
 2.calculate elements of L and U
+
 3.print elements L and U
+
 4.Find V by solving LV=B by forward substitution 
  
  
@@ -48,7 +51,8 @@ for i in range(n):
 
 ## Output:
 
-![Uploading OUTPUT 1.png…]()
+
+![OUTPUT 1](https://github.com/Nandhinijaya/Gaussian/assets/121998147/81ceb87f-cd85-4b99-9610-d30b18954db1)
 
 
 
